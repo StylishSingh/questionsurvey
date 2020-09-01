@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "579127457481",
+    "firebase_url": "https://medicalsurvey-aab65.firebaseio.com",
+    "project_id": "medicalsurvey-aab65",
+    "storage_bucket": "medicalsurvey-aab65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579127457481:android:9fdb00b92e61bb98",
+        "android_client_info": {
+          "package_name": "com.medicalsurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579127457481-dvvj304c8a036pgj48t8jfsklvdm73gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEIPwwzKL-xeWKV5pCZnBGY5ZtNfK7XsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

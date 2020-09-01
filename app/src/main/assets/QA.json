@@ -1,0 +1,3837 @@
+{
+  "data": {
+    "pre": [
+      {
+        "ques_no": "1",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "1. Where are you taking this questionnaire?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Home"
+          },
+          {
+            "index": 1,
+            "option": "Doctor’s office"
+          },
+          {
+            "index": 1,
+            "option": "Other"
+          }
+        ]
+      },
+      {
+        "ques_no": "2",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "2. In general, would you say your health is?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Excellent"
+          },
+          {
+            "index": 1,
+            "option": "Very Good"
+          },
+          {
+            "index": 1,
+            "option": "Good"
+          },
+          {
+            "index": 1,
+            "option": "Fair"
+          },
+          {
+            "index": 1,
+            "option": "Poor"
+          }
+        ]
+      },
+      {
+        "ques_no": "3",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "3. Have you ever driven a car?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes"
+          },
+          {
+            "index": 6,
+            "option": "No"
+          }
+        ]
+      },
+      {
+        "ques_no": "4",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "4. Do you currently drive?",
+        "answers": [
+          {
+            "index": 2,
+            "option": "Yes"
+          },
+          {
+            "index": 1,
+            "option": "No"
+          }
+        ]
+      },
+      {
+        "ques_no": "5",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "5. If you gave up driving, was that mainly because of your vision, mainly for some other reason, or because of both your vision and other reasons?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Mainly vision"
+          },
+          {
+            "index": 1,
+            "option": "Mainly other reasons"
+          },
+          {
+            "index": 1,
+            "option": "Both vision and other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "6",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "instructions": "<b>INSTRUCTIONS: When you answer the question below, think about <u>your vision with</u> the vision correction you normally use, including glasses, contact lenses, a magnifier, or nothing at all.</b>",
+        "question": "6. Because of your vision, how much difficulty do you have <u>driving during the daytime in familiar places</u>? Would you say you have:",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never drive during the daytime because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never drive during the daytime for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "7",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "7. Because of your vision, how much difficulty do you have driving <u>at night</u>?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never drive at night because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never drive at night for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "8",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "8. Because of your vision, how much difficulty do you have <u>driving in difficult conditions</u>, such as bad weather, during rush hour, on the freeway, or in city traffic?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never drive in these conditions because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never drive in these conditions for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "9",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "9. How much difficulty do you have seeing things off to the side, like cars coming out of driveways or side streets or people coming out of doorways?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          }
+        ]
+      },
+      {
+        "ques_no": "10",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "10. Because of your vision, how much difficulty do you have with your daily activities?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          }
+        ]
+      },
+      {
+        "ques_no": "11",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "11. How much difficulty do you have doing work or hobbies that require you to see well up close, such as cooking, fixing things around the house, sewing, using hand tools, or working with a computer?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never try to do these activities because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never do these activities for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "12",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "12. How much difficulty do you have reading ordinary print in newspapers?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never try to do this because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never try to do this for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "13",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "13. How much difficulty do you have reading small print small print in a telephone book, on a medicine bottle, or on legal forms?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never try to do these activities because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never do these activities for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "14",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "14. How much difficulty do you have judging distances, like walking down stairs or parking a car?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          }
+        ]
+      },
+      {
+        "ques_no": "15",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "15. How much difficulty do you have getting used to the dark when you move from a lighted area into a dark place, like walking into a dark movie theater?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          }
+        ]
+      },
+      {
+        "ques_no": "16",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "16. How much difficulty do you have seeing because of changes in the clarity of your vision during the course of the day?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Don’t have changes in the clarity of my vision"
+          },
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          }
+        ]
+      },
+      {
+        "ques_no": "17",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "17. How often are you bothered by changes in the clarity of your vision over the course of the day?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Occasionally"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "All of the time"
+          }
+        ]
+      },
+      {
+        "ques_no": "18",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "18. Have you experienced blurry vision in the last 7 days?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes"
+          },
+          {
+            "index": 2,
+            "option": "No"
+          }
+        ]
+      },
+      {
+        "ques_no": "18a",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "18a. How bothersome has it been?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Very"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat"
+          },
+          {
+            "index": 1,
+            "option": "A little"
+          },
+          {
+            "index": 1,
+            "option": "Not at all"
+          }
+        ]
+      },
+      {
+        "ques_no": "",
+        "answer": "",
+        "previous_index": 0,
+        "next_index": 0,
+        "image": "image",
+        "question": "",
+        "instructions": "The next set of questions will reference the following images and their labels.",
+        "answers": []
+      },
+      {
+        "ques_no": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "image_19_1",
+        "question": "",
+        "instructions": "<b>INSTRUCTIONS: The next few questions are about <u><i>double images</i>, which some people call <i>\"ghost\"</i> or <i>\"shadow\"</i> images</u>. By double images, we mean <i>seeing a distorted</i> or <i>blurry visual image</i>, such as the images shown below. These images may not represent exactly what you see and your symptoms may be more or less severe than what is shown.</b>",
+        "answers": []
+      },
+      {
+        "ques_no": "19",
+        "image": "",
+        "previous_index": 0,
+        "has_sub_type": true,
+        "next_index": 0,
+        "question": "19. In the last 7 days, have you seen any <b><u>double images</b></u>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when NOT wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, when wearing AND when not wearing glasses or contact lenses"
+          },
+          {
+            "index": 8,
+            "option": "No, not at all"
+          }
+        ]
+      },
+      {
+        "ques_no": "19a",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "19a. In the last 7 days, <u>how often</u> have you seen <b>double images</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          }
+        ]
+      },
+      {
+        "ques_no": "19b",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "19b. In the last 7 days, <u>how often</u> have you seen <b>double images</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "20a",
+        "question": "20a. In the last 7 days, <u>how bothersome</u> have the <b>double images</b> been <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          }
+        ]
+      },
+      {
+        "ques_no": "20b",
+        "question": "20b. In the last 7 days, <u>how bothersome</u> have the <b>double images</b> been <u>when you are</u> NOT <u>wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "21a",
+        "question": "21a. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>double images</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          }
+        ]
+      },
+      {
+        "ques_no": "21b",
+        "question": "21b. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>double images</b> when you are <u>NOT</u> wearing any vision correction (glasses or contact lenses)?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "22",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "22. When you use your best vision correction (glasses or contact lenses) do the <b><u>double images</u></b> you see:",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Go away completely"
+          },
+          {
+            "index": 1,
+            "option": "Go away mostly"
+          },
+          {
+            "index": 1,
+            "option": "Go away a little"
+          },
+          {
+            "index": 1,
+            "option": "Not change"
+          },
+          {
+            "index": 1,
+            "option": "Get a little worse"
+          },
+          {
+            "index": 1,
+            "option": "Get a lot worse"
+          }
+        ]
+      },
+      {
+        "ques_no": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "image_23_1",
+        "question": "",
+        "instructions": "<b>INSTRUCTIONS: The next few questions are about <u><i>glare</i></u>. By glare, we mean <i>difficulty seeing well when there are <u>bright lights</u></i> like headlights or sunlight, such as shown in the images below. These images may not represent exactly what you see and your symptoms may be more or less severe than what is shown.</b>",
+        "answers": []
+      },
+      {
+        "ques_no": "23",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "23. In the last 7 days, have you noticed any <b>glare</b>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when NOT wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, when wearing AND when not wearing glasses or contact lenses"
+          },
+          {
+            "index": 8,
+            "option": "No, not at all"
+          }
+        ]
+      },
+      {
+        "ques_no": "23a",
+        "question": "23a. In the last 7 days, <u>how often</u> have you noticed <b>glare</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          }
+        ]
+      },
+      {
+        "ques_no": "23b",
+        "question": "23b. In the last 7 days, <u>how often</u> have you noticed <b>glare</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "24a",
+        "question": "24a. In the last 7 days, <u>how bothersome</u> has the <b>glare</b> been <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          }
+        ]
+      },
+      {
+        "ques_no": "24b",
+        "question": "24b. In the last 7 days, <u>how bothersome</u> has the <b>glare</b> been <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "25a",
+        "question": "25a. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you noticed <b>glare</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          }
+        ]
+      },
+      {
+        "ques_no": "25b",
+        "question": "25b. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you noticed <b>glare</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "26",
+        "question": "26. When you use your best vision correction (glasses or contact lenses) does the <b>glare</b> you notice:",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Go away completely"
+          },
+          {
+            "index": 1,
+            "option": "Go away mostly"
+          },
+          {
+            "index": 1,
+            "option": "Go away a little"
+          },
+          {
+            "index": 1,
+            "option": "Not change"
+          },
+          {
+            "index": 1,
+            "option": "Get a little worse"
+          },
+          {
+            "index": 1,
+            "option": "Get a lot worse"
+          }
+        ]
+      },
+      {
+        "ques_no": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "image_27_1",
+        "question": "",
+        "instructions": "<b>INSTRUCTIONS: The next few questions are about <u><i>halos</i></u>. By halos, we mean <i>seeing a fuzzy cloud of light around lighted objects,</i> such as the ones shown in the images below. These images may not represent exactly what you see and your symptoms may be more or less severe than what is shown.</b>",
+        "answers": []
+      },
+      {
+        "ques_no": "27",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "27. In the last 7 days, have you seen any <b>halos</b>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when NOT wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, when wearing AND when not wearing glasses or contact lenses"
+          },
+          {
+            "index": 8,
+            "option": "No, not at all"
+          }
+        ]
+      },
+      {
+        "ques_no": "27a",
+        "question": "27a. In the last 7 days, <u>how often</u> have you seen <b>halos</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          }
+        ]
+      },
+      {
+        "ques_no": "27b",
+        "question": "27b. In the last 7 days, <u>how often</u> have you seen <b>halos</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "28a",
+        "question": "28a. In the last 7 days, <u>how bothersome</u> have the <b>halos</b> been <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          }
+        ]
+      },
+      {
+        "ques_no": "28b",
+        "question": "28b. In the last 7 days, <u>how bothersome</u> have the <b>halos</b> been <u>when you are NOT wearing any vision correction (glasses or contact lenses)<u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "29a",
+        "question": "29a. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>halos</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          }
+        ]
+      },
+      {
+        "ques_no": "29b",
+        "question": "29b. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>halos</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "30",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "30. When you use your best vision correction (glasses or contact lenses) do the <b>halos</b> you see:",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Go away completely"
+          },
+          {
+            "index": 1,
+            "option": "Go away mostly"
+          },
+          {
+            "index": 1,
+            "option": "Go away a little"
+          },
+          {
+            "index": 1,
+            "option": "Not change"
+          },
+          {
+            "index": 1,
+            "option": "Get a little worse"
+          },
+          {
+            "index": 1,
+            "option": "Get a lot worse"
+          }
+        ]
+      },
+      {
+        "ques_no": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "image_31_1",
+        "question": "",
+        "instructions": "<b>INSTRUCTIONS: The next few questions are about <u><i>starbursts</i></u>. By starbursts, we mean <i>seeing rays of light coming out from lighted objects,</i> such as in the car headlights in the images below. These images may not represent exactly what you see and your symptoms may be more or less severe than what is shown.</b>",
+        "answers": []
+      },
+      {
+        "ques_no": "31",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "31. In the last 7 days, have you seen any <b>starbursts</b>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when NOT wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, when wearing AND when not wearing glasses or contact lenses"
+          },
+          {
+            "index": 8,
+            "option": "No, not at all"
+          }
+        ]
+      },
+      {
+        "ques_no": "31a",
+        "question": "31a. In the last 7 days, <u>how often</u> have you seen <b>starbursts</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          }
+        ]
+      },
+      {
+        "ques_no": "31b",
+        "question": "31b. In the last 7 days, <u>how often</u> have you seen <b>starbursts</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "32a",
+        "question": "32a. In the last 7 days, <u>how bothersome</u> have the <b>starbursts</b> been <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          }
+        ]
+      },
+      {
+        "ques_no": "32b",
+        "question": "32b. In the last 7 days, <u>how bothersome</u> have the <b>starbursts</b> been <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "33a",
+        "question": "33a. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>starbursts</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          }
+        ]
+      },
+      {
+        "ques_no": "33b",
+        "question": "33b. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>starbursts</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "34",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "34. When you use your best vision correction (glasses or contact lenses) do the <b>starbursts</b> you see:",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Go away completely"
+          },
+          {
+            "index": 1,
+            "option": "Go away mostly"
+          },
+          {
+            "index": 1,
+            "option": "Go away a little"
+          },
+          {
+            "index": 1,
+            "option": "Not change"
+          },
+          {
+            "index": 1,
+            "option": "Get a little worse"
+          },
+          {
+            "index": 1,
+            "option": "Get a lot worse"
+          }
+        ]
+      },
+      {
+        "ques_no": "35",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "35. In general, how satisfied or dissatisfied are you with your present vision?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Completely satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Very satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Very dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Completely dissatisfied"
+          }
+        ]
+      },
+      {
+        "ques_no": "36",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "36. Are you currently wearing glasses or contact lenses to see things in the distance?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No, none of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, some of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, most of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, all of the time"
+          }
+        ]
+      },
+      {
+        "ques_no": "37",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "37. Are you currently wearing glasses or contact lenses to see things at an intermediate distance (1.5 to 5 feet away)?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No, none of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, some of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, most of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, all of the time"
+          }
+        ]
+      },
+      {
+        "ques_no": "38",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "38. Are you currently wearing glasses or contact lenses to see things at a near distance (less than 1.5 feet away)?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No, none of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, some of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, most of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, all of the time"
+          }
+        ]
+      }
+    ],
+    "post": [
+      {
+        "ques_no": "1",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "1. Where are you taking this questionnaire?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Home"
+          },
+          {
+            "index": 1,
+            "option": "Doctor’s office"
+          },
+          {
+            "index": 1,
+            "option": "Other"
+          }
+        ]
+      },
+      {
+        "ques_no": "2",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "2. In general, would you say your health is?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Excellent"
+          },
+          {
+            "index": 1,
+            "option": "Very Good"
+          },
+          {
+            "index": 1,
+            "option": "Good"
+          },
+          {
+            "index": 1,
+            "option": "Fair"
+          },
+          {
+            "index": 1,
+            "option": "Poor"
+          }
+        ]
+      },
+      {
+        "ques_no": "3",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "3. Have you ever driven a car?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes"
+          },
+          {
+            "index": 6,
+            "option": "No"
+          }
+        ]
+      },
+      {
+        "ques_no": "4",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "4. Do you currently drive?",
+        "answers": [
+          {
+            "index": 2,
+            "option": "Yes"
+          },
+          {
+            "index": 1,
+            "option": "No"
+          }
+        ]
+      },
+      {
+        "ques_no": "5",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "5. If you gave up driving, was that mainly because of your vision, mainly for some other reason, or because of both your vision and other reasons?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Mainly vision"
+          },
+          {
+            "index": 1,
+            "option": "Mainly other reasons"
+          },
+          {
+            "index": 1,
+            "option": "Both vision and other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "6",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "instructions": "<b>INSTRUCTIONS: When you answer the question below, think about <u>your vision with</u> the vision correction you normally use, including glasses, contact lenses, a magnifier, or nothing at all.</b>",
+        "question": "6. Because of your vision, how much difficulty do you have <u>driving during the daytime in familiar places</u>? Would you say you have:",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never drive during the daytime because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never drive during the daytime for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "7",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "7. Because of your vision, how much difficulty do you have driving <u>at night</u>?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never drive at night because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never drive at night for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "8",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "8. Because of your vision, how much difficulty do you have <u>driving in difficult conditions</u>, such as bad weather, during rush hour, on the freeway, or in city traffic?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never drive in these conditions because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never drive in these conditions for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "9",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "9. How much difficulty do you have seeing things off to the side, like cars coming out of driveways or side streets or people coming out of doorways?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          }
+        ]
+      },
+      {
+        "ques_no": "10",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "10. Because of your vision, how much difficulty do you have with your daily activities?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          }
+        ]
+      },
+      {
+        "ques_no": "11",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "11. How much difficulty do you have doing work or hobbies that require you to see well up close, such as cooking, fixing things around the house, sewing, using hand tools, or working with a computer?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never try to do these activities because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never do these activities for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "12",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "12. How much difficulty do you have reading ordinary print in newspapers?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never try to do this because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never try to do this for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "13",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "13. How much difficulty do you have reading small print small print in a telephone book, on a medicine bottle, or on legal forms?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Never try to do these activities because of vision"
+          },
+          {
+            "index": 1,
+            "option": "Never do these activities for other reasons"
+          }
+        ]
+      },
+      {
+        "ques_no": "14",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "14. How much difficulty do you have judging distances, like walking down stairs or parking a car?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          }
+        ]
+      },
+      {
+        "ques_no": "15",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "15. How much difficulty do you have getting used to the dark when you move from a lighted area into a dark place, like walking into a dark movie theater?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          }
+        ]
+      },
+      {
+        "ques_no": "16",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "16. How much difficulty do you have seeing because of changes in the clarity of your vision during the course of the day?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Don’t have changes in the clarity of my vision"
+          },
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "A little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          }
+        ]
+      },
+      {
+        "ques_no": "17",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "17. How often are you bothered by changes in the clarity of your vision over the course of the day?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Occasionally"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "All of the time"
+          }
+        ]
+      },
+      {
+        "ques_no": "18",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "18. Have you experienced blurry vision in the last 7 days?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes"
+          },
+          {
+            "index": 2,
+            "option": "No"
+          }
+        ]
+      },
+      {
+        "ques_no": "18a",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "18a. How bothersome has it been?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Very"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat"
+          },
+          {
+            "index": 1,
+            "option": "A little"
+          },
+          {
+            "index": 1,
+            "option": "Not at all"
+          }
+        ]
+      },
+      {
+        "ques_no": "",
+        "answer": "",
+        "previous_index": 0,
+        "next_index": 0,
+        "image": "image",
+        "question": "",
+        "instructions": "The next set of questions will reference the following images and their labels.",
+        "answers": []
+      },
+      {
+        "ques_no": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "image_19_1",
+        "question": "",
+        "instructions": "<b>INSTRUCTIONS: The next few questions are about <u><i>double images</i>, which some people call <i>\"ghost\"</i> or <i>\"shadow\"</i> images</u>. By double images, we mean <i>seeing a distorted</i> or <i>blurry visual image</i>, such as the images shown below. These images may not represent exactly what you see and your symptoms may be more or less severe than what is shown.</b>",
+        "answers": []
+      },
+      {
+        "ques_no": "19",
+        "image": "",
+        "previous_index": 0,
+        "next_index": 0,
+        "question": "19. In the last 7 days, have you seen any <b><u>double images</b></u>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when NOT wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, when wearing AND when not wearing glasses or contact lenses"
+          },
+          {
+            "index": 8,
+            "option": "No, not at all"
+          }
+        ]
+      },
+      {
+        "ques_no": "19a",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "19a. In the last 7 days, <u>how often</u> have you seen <b>double images</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          }
+        ]
+      },
+      {
+        "ques_no": "19b",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "19b. In the last 7 days, <u>how often</u> have you seen <b>double images</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "20a",
+        "question": "20a. In the last 7 days, <u>how bothersome</u> have the <b>double images</b> been <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          }
+        ]
+      },
+      {
+        "ques_no": "20b",
+        "question": "20b. In the last 7 days, <u>how bothersome</u> have the <b>double images</b> been <u>when you are</u> NOT <u>wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "21a",
+        "question": "21a. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>double images</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          }
+        ]
+      },
+      {
+        "ques_no": "21b",
+        "question": "21b. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>double images</b> when you are <u>NOT</u> wearing any vision correction (glasses or contact lenses)?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "22",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "22. When you use your best vision correction (glasses or contact lenses) do the <b><u>double images</u></b> you see:",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Go away completely"
+          },
+          {
+            "index": 1,
+            "option": "Go away mostly"
+          },
+          {
+            "index": 1,
+            "option": "Go away a little"
+          },
+          {
+            "index": 1,
+            "option": "Not change"
+          },
+          {
+            "index": 1,
+            "option": "Get a little worse"
+          },
+          {
+            "index": 1,
+            "option": "Get a lot worse"
+          }
+        ]
+      },
+      {
+        "ques_no": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "image_23_1",
+        "question": "",
+        "instructions": "<b>INSTRUCTIONS: The next few questions are about <u><i>glare</i></u>. By glare, we mean <i>difficulty seeing well when there are <u>bright lights</u></i> like headlights or sunlight, such as shown in the images below. These images may not represent exactly what you see and your symptoms may be more or less severe than what is shown.</b>",
+        "answers": []
+      },
+      {
+        "ques_no": "23",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "23. In the last 7 days, have you noticed any <b>glare</b>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when NOT wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, when wearing AND when not wearing glasses or contact lenses"
+          },
+          {
+            "index": 8,
+            "option": "No, not at all"
+          }
+        ]
+      },
+      {
+        "ques_no": "23a",
+        "question": "23a. In the last 7 days, <u>how often</u> have you noticed <b>glare</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          }
+        ]
+      },
+      {
+        "ques_no": "23b",
+        "question": "23b. In the last 7 days, <u>how often</u> have you noticed <b>glare</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "24a",
+        "question": "24a. In the last 7 days, <u>how bothersome</u> has the <b>glare</b> been <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          }
+        ]
+      },
+      {
+        "ques_no": "24b",
+        "question": "24b. In the last 7 days, <u>how bothersome</u> has the <b>glare</b> been <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "25a",
+        "question": "25a. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you noticed <b>glare</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          }
+        ]
+      },
+      {
+        "ques_no": "25b",
+        "question": "25b. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you noticed <b>glare</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "26",
+        "question": "26. When you use your best vision correction (glasses or contact lenses) does the <b>glare</b> you notice:",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Go away completely"
+          },
+          {
+            "index": 1,
+            "option": "Go away mostly"
+          },
+          {
+            "index": 1,
+            "option": "Go away a little"
+          },
+          {
+            "index": 1,
+            "option": "Not change"
+          },
+          {
+            "index": 1,
+            "option": "Get a little worse"
+          },
+          {
+            "index": 1,
+            "option": "Get a lot worse"
+          }
+        ]
+      },
+      {
+        "ques_no": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "image_27_1",
+        "question": "",
+        "instructions": "<b>INSTRUCTIONS: The next few questions are about <u><i>halos</i></u>. By halos, we mean <i>seeing a fuzzy cloud of light around lighted objects,</i> such as the ones shown in the images below. These images may not represent exactly what you see and your symptoms may be more or less severe than what is shown.</b>",
+        "answers": []
+      },
+      {
+        "ques_no": "27",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "27. In the last 7 days, have you seen any <b>halos</b>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when NOT wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, when wearing AND when not wearing glasses or contact lenses"
+          },
+          {
+            "index": 8,
+            "option": "No, not at all"
+          }
+        ]
+      },
+      {
+        "ques_no": "27a",
+        "question": "27a. In the last 7 days, <u>how often</u> have you seen <b>halos</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          }
+        ]
+      },
+      {
+        "ques_no": "27b",
+        "question": "27b. In the last 7 days, <u>how often</u> have you seen <b>halos</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "28a",
+        "question": "28a. In the last 7 days, <u>how bothersome</u> have the <b>halos</b> been <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          }
+        ]
+      },
+      {
+        "ques_no": "28b",
+        "question": "28b. In the last 7 days, <u>how bothersome</u> have the <b>halos</b> been <u>when you are NOT wearing any vision correction (glasses or contact lenses)<u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "29a",
+        "question": "29a. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>halos</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          }
+        ]
+      },
+      {
+        "ques_no": "29b",
+        "question": "29b. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>halos</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "30",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "30. When you use your best vision correction (glasses or contact lenses) do the <b>halos</b> you see:",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Go away completely"
+          },
+          {
+            "index": 1,
+            "option": "Go away mostly"
+          },
+          {
+            "index": 1,
+            "option": "Go away a little"
+          },
+          {
+            "index": 1,
+            "option": "Not change"
+          },
+          {
+            "index": 1,
+            "option": "Get a little worse"
+          },
+          {
+            "index": 1,
+            "option": "Get a lot worse"
+          }
+        ]
+      },
+      {
+        "ques_no": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "image_31_1",
+        "question": "",
+        "instructions": "<b>INSTRUCTIONS: The next few questions are about <u><i>starbursts</i></u>. By starbursts, we mean <i>seeing rays of light coming out from lighted objects,</i> such as in the car headlights in the images below. These images may not represent exactly what you see and your symptoms may be more or less severe than what is shown.</b>",
+        "answers": []
+      },
+      {
+        "ques_no": "31",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "31. In the last 7 days, have you seen any <b>starbursts</b>?",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when NOT wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, but ONLY when wearing glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Yes, when wearing AND when not wearing glasses or contact lenses"
+          },
+          {
+            "index": 8,
+            "option": "No, not at all"
+          }
+        ]
+      },
+      {
+        "ques_no": "31a",
+        "question": "31a. In the last 7 days, <u>how often</u> have you seen <b>starbursts</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "instructions": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          }
+        ]
+      },
+      {
+        "ques_no": "31b",
+        "question": "31b. In the last 7 days, <u>how often</u> have you seen <b>starbursts</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Never"
+          },
+          {
+            "index": 1,
+            "option": "Rarely"
+          },
+          {
+            "index": 1,
+            "option": "Sometimes"
+          },
+          {
+            "index": 1,
+            "option": "Often"
+          },
+          {
+            "index": 1,
+            "option": "Always"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "32a",
+        "question": "32a. In the last 7 days, <u>how bothersome</u> have the <b>starbursts</b> been <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          }
+        ]
+      },
+      {
+        "ques_no": "32b",
+        "question": "32b. In the last 7 days, <u>how bothersome</u> have the <b>starbursts</b> been <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Extremely bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Very bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat bothersome"
+          },
+          {
+            "index": 1,
+            "option": "A little bothersome"
+          },
+          {
+            "index": 1,
+            "option": "Not at all bothersome"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "33a",
+        "question": "33a. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>starbursts</b> <u>when you are wearing your best vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          }
+        ]
+      },
+      {
+        "ques_no": "33b",
+        "question": "33b. In the last 7 days, <u>how much difficulty have you had doing your usual activities</u> because you see <b>starbursts</b> <u>when you are NOT wearing any vision correction (glasses or contact lenses)</u>?",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No difficulty at all"
+          },
+          {
+            "index": 1,
+            "option": "Very little difficulty"
+          },
+          {
+            "index": 1,
+            "option": "Moderate difficulty"
+          },
+          {
+            "index": 1,
+            "option": "A lot of difficulty"
+          },
+          {
+            "index": 1,
+            "option": "So much difficulty that I can no longer do some of my usual activities"
+          },
+          {
+            "index": 1,
+            "option": "I always use glasses or contact lenses"
+          }
+        ]
+      },
+      {
+        "ques_no": "34",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "34. When you use your best vision correction (glasses or contact lenses) do the <b>starbursts</b> you see:",
+        "answers": [
+          {
+            "index": 1,
+            "option": "I do not use glasses or contact lenses"
+          },
+          {
+            "index": 1,
+            "option": "Go away completely"
+          },
+          {
+            "index": 1,
+            "option": "Go away mostly"
+          },
+          {
+            "index": 1,
+            "option": "Go away a little"
+          },
+          {
+            "index": 1,
+            "option": "Not change"
+          },
+          {
+            "index": 1,
+            "option": "Get a little worse"
+          },
+          {
+            "index": 1,
+            "option": "Get a lot worse"
+          }
+        ]
+      },
+      {
+        "ques_no": "35",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "35. In general, how satisfied or dissatisfied are you with your present vision?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Completely satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Very satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Very dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Completely dissatisfied"
+          }
+        ]
+      },
+      {
+        "ques_no": "36",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "36. Currently, how satisfied or dissatisfied are you with the result of your LASIK surgery?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Completely satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Very satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Very dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Completely dissatisfied"
+          }
+        ]
+      },
+      {
+        "ques_no": "37",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "37. Currently, how satisfied or dissatisfied are you with how long it took to see <u>improvement in your vision</u> after LASIK surgery?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Completely satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Very satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Very dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Completely dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Never had any improvement in my vision after LASIK surgery"
+          }
+        ]
+      },
+      {
+        "ques_no": "38",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "38. Currently, how satisfied or dissatisfied are you with how long it took to <u>see improvement in your post-operative symptoms of discomfort</u> after LASIK surgery?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Completely satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Very satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat satisfied"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Very dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Completely dissatisfied"
+          },
+          {
+            "index": 1,
+            "option": "Never had any post-operative symptoms of discomfort after LASIK surgery"
+          }
+        ]
+      },
+      {
+        "ques_no": "39",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "39. When you are <u>not wearing</u> glasses or contact lenses, is your distance vision now as good as you anticipated it would be after LASIK surgery?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, definitely"
+          },
+          {
+            "index": 1,
+            "option": "Yes, somewhat"
+          },
+          {
+            "index": 1,
+            "option": "No"
+          }
+        ]
+      },
+      {
+        "ques_no": "40",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "40. Are you currently wearing glasses or contact lenses to see things in the distance?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No, none of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, some of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, most of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, all of the time"
+          }
+        ]
+      },
+      {
+        "ques_no": "41",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "41. When you are <u>not wearing</u> glasses or contact lenses, is your intermediate vision (1.5 to 5 feet away) now as good as you anticipated it would be after LASIK surgery?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, definitely"
+          },
+          {
+            "index": 1,
+            "option": "Yes, somewhat"
+          },
+          {
+            "index": 1,
+            "option": "No"
+          }
+        ]
+      },
+      {
+        "ques_no": "42",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "42. Are you currently wearing glasses or contact lenses to see things at an intermediate distance (1.5 to 5 feet away)?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No, none of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, some of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, most of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, all of the time"
+          }
+        ]
+      },
+      {
+        "ques_no": "43",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "instructions": "",
+        "question": "43. When you are <u>not wearing</u> glasses or contact lenses, is your near vision (less than 1.5 feet away) now as good as you anticipated it would be after LASIK surgery?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, definitely"
+          },
+          {
+            "index": 1,
+            "option": "Yes, somewhat"
+          },
+          {
+            "index": 1,
+            "option": "No"
+          }
+        ]
+      },
+      {
+        "ques_no": "44",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "instructions": "",
+        "question": "44. Are you currently wearing glasses or contact lenses to see things at a near distance (less than 1.5 feet away)?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "No, none of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, some of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, most of the time"
+          },
+          {
+            "index": 1,
+            "option": "Yes, all of the time"
+          }
+        ]
+      },
+      {
+        "ques_no": "45",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "instructions": "",
+        "question": "45. Did you achieve the goals you had for LASIK surgery?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Yes, fully achieved"
+          },
+          {
+            "index": 1,
+            "option": "Yes, partially achieved"
+          },
+          {
+            "index": 1,
+            "option": "No"
+          }
+        ]
+      },
+      {
+        "ques_no": "46",
+        "instructions": "",
+        "previous_index": 0,
+        "answer": "",
+        "next_index": 0,
+        "image": "",
+        "question": "46. How happy or unhappy are you that you had LASIK surgery?",
+        "answers": [
+          {
+            "index": 1,
+            "option": "Completely happy"
+          },
+          {
+            "index": 1,
+            "option": "Very happy"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat happy"
+          },
+          {
+            "index": 1,
+            "option": "Somewhat unhappy"
+          },
+          {
+            "index": 1,
+            "option": "Very unhappy"
+          },
+          {
+            "index": 1,
+            "option": "Completely unhappy"
+          }
+        ]
+      }
+    ]
+  }
+}

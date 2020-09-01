@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PROWL</string>
+    <string name="edc_set_up">EDC Set-up</string>
+    <string name="next">Next</string>
+    <string name="questionnaire_selection">Questionnaire Selection:</string>
+    <string name="site_staff_number">Site Staff Number:</string>
+    <string name="site_number">Site Number:</string>
+    <string name="study_number">Study Number:</string>
+    <string name="pre">PRE</string>
+    <string name="post">POST</string>
+    <string name="visit_selection">Visit Selection:</string>
+    <string name="patient_id">Patient ID:</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="app_title">PROWL-MV</string>
+    <string name="text_intro1">Patient Reported Outcomes with LASIK-MV</string>
+    <string name="text_pre_instruction">PRE-PROCEDURE QUESTIONNAIRE\nPATIENT-REPORTED OUTCOMES WITH LASIK: MONOVISION\n\nFor ALL questions, please select the response that best describes your answer.</string>
+    <string name="text_post_instruction">POST-PROCEDURE QUESTIONNAIRE\nPATIENT-REPORTED OUTCOMES WITH LASIK: MONOVISION\n\nFor ALL questions, please select the response that best describes your answer.</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_pre">TEST_PRE</string>
+    <string name="test_post">TEST_POST</string>
+    <string name="instruction_one">The next set of questions will reference the following images and their labels.</string>
+    <string name="is_survey_started">is_survey_started</string>
+    <string name="resumed_index">resumed_index</string>
+    <string name="get_pref_questions">get_pref_questions</string>
+    <string name="thanks">Thank you - Please give the tablet back to the interviewer</string>
+    <string name="string_next">Next</string>
+</resources>
